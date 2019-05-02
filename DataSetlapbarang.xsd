@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetlapbarang" targetNamespace="http://tempuri.org/DataSetlapbarang.xsd" xmlns:mstns="http://tempuri.org/DataSetlapbarang.xsd" xmlns="http://tempuri.org/DataSetlapbarang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="koperasi_cbtConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="koperasi_cbtConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.AppKoprasi_cbt_produktif.My.MySettings.GlobalReference.Default.koperasi_cbtConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetlapbarang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetlapbarang" msprop:Generator_UserDSName="DataSetlapbarang">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tb_barang" msprop:Generator_TableClassName="tb_barangDataTable" msprop:Generator_TableVarName="tabletb_barang" msprop:Generator_TablePropName="tb_barang" msprop:Generator_RowDeletingName="tb_barangRowDeleting" msprop:Generator_RowChangingName="tb_barangRowChanging" msprop:Generator_RowEvHandlerName="tb_barangRowChangeEventHandler" msprop:Generator_RowDeletedName="tb_barangRowDeleted" msprop:Generator_UserTableName="tb_barang" msprop:Generator_RowChangedName="tb_barangRowChanged" msprop:Generator_RowEvArgName="tb_barangRowChangeEvent" msprop:Generator_RowClassName="tb_barangRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kode_barang" msprop:Generator_ColumnVarNameInTable="columnkode_barang" msprop:Generator_ColumnPropNameInRow="kode_barang" msprop:Generator_ColumnPropNameInTable="kode_barangColumn" msprop:Generator_UserColumnName="kode_barang" type="xs:string" minOccurs="0" />
+              <xs:element name="nama_barang" msprop:Generator_ColumnVarNameInTable="columnnama_barang" msprop:Generator_ColumnPropNameInRow="nama_barang" msprop:Generator_ColumnPropNameInTable="nama_barangColumn" msprop:Generator_UserColumnName="nama_barang" type="xs:string" minOccurs="0" />
+              <xs:element name="harga_awal" msprop:Generator_ColumnVarNameInTable="columnharga_awal" msprop:Generator_ColumnPropNameInRow="harga_awal" msprop:Generator_ColumnPropNameInTable="harga_awalColumn" msprop:Generator_UserColumnName="harga_awal" type="xs:string" minOccurs="0" />
+              <xs:element name="harga_jual" msprop:Generator_ColumnVarNameInTable="columnharga_jual" msprop:Generator_ColumnPropNameInRow="harga_jual" msprop:Generator_ColumnPropNameInTable="harga_jualColumn" msprop:Generator_UserColumnName="harga_jual" type="xs:string" minOccurs="0" />
+              <xs:element name="stok" msprop:Generator_ColumnVarNameInTable="columnstok" msprop:Generator_ColumnPropNameInRow="stok" msprop:Generator_ColumnPropNameInTable="stokColumn" msprop:Generator_UserColumnName="stok" type="xs:string" minOccurs="0" />
+              <xs:element name="kode_kelompok" msprop:Generator_ColumnVarNameInTable="columnkode_kelompok" msprop:Generator_ColumnPropNameInRow="kode_kelompok" msprop:Generator_ColumnPropNameInTable="kode_kelompokColumn" msprop:Generator_UserColumnName="kode_kelompok" type="xs:string" minOccurs="0" />
+              <xs:element name="nama_kelompok" msprop:Generator_ColumnVarNameInTable="columnnama_kelompok" msprop:Generator_ColumnPropNameInRow="nama_kelompok" msprop:Generator_ColumnPropNameInTable="nama_kelompokColumn" msprop:Generator_UserColumnName="nama_kelompok" type="xs:string" minOccurs="0" />
+              <xs:element name="tgl_input" msprop:Generator_ColumnVarNameInTable="columntgl_input" msprop:Generator_ColumnPropNameInRow="tgl_input" msprop:Generator_ColumnPropNameInTable="tgl_inputColumn" msprop:Generator_UserColumnName="tgl_input" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

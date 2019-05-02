@@ -1,0 +1,81 @@
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.exe
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.pdb
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.xml
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Bunifu_UI_v1.4.dll
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.login.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Resources.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbproj.GenerateResource.Cache
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.exe
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.xml
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.pdb
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.menu_admin.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.transaksi.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporan.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.home.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_barang.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_pemasok.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_rak.resources
+D:\RPL XI-3\CBT Produktif\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbprojResolveAssemblyReference.cache
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.exe
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.xml
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.pdb
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.exe
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.pdb
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.xml
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.home.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_barang.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_pemasok.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_rak.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporan.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.login.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.menu_admin.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Resources.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.transaksi.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbproj.GenerateResource.Cache
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barang.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\RdlCompile.cache
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\RdlCompile.compiled
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barangperitem.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Struk_Penjualan.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.strukdatadata.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.exe
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.xml
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.pdb
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.exe
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.pdb
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\AppKoprasi_cbt_produktif.xml
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Bunifu_UI_v1.4.dll
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbprojResolveAssemblyReference.cache
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.home.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_barang.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_pemasok.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.input_rak.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporan.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barang.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barangperitem.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.login.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.menu_admin.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Resources.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Struk_Penjualan.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.strukdatadata.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.transaksi.resources
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbproj.GenerateResource.Cache
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\RdlCompile.cache
+D:\RPL XI-3\CBT BAru\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\RdlCompile.compiled
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporanperhari.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.Tentang_app.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.data_user.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.data_pemasok.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.info_kel.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.log_out.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporanstokbaranghabis.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barangpertanggal.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.laporansemuatransaksi.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.lap_barangstokada.resources
+E:\CBT PROD\AppKoprasi_cbt_produktif\AppKoprasi_cbt_produktif\obj\Debug\AppKoprasi_cbt_produktif.vbprojResolveAssemblyReference.cache

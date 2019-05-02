@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E461F49-3DE5-4F09-B891-60669FCA5EB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AppKoprasi_cbt_produktif.My.MyApplication</StartupObject>
+    <RootNamespace>AppKoprasi_cbt_produktif</RootNamespace>
+    <AssemblyName>AppKoprasi_cbt_produktif</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AppKoprasi_cbt_produktif.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AppKoprasi_cbt_produktif.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>C:\Users\Lenovo\Downloads\Compressed\Bunifu_UI_v1.4\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSetlapbarang.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetlapbarang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetstruk.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetstruk.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data_pemasok.Designer.vb">
+      <DependentUpon>data_pemasok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="data_pemasok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="data_user.Designer.vb">
+      <DependentUpon>data_user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="data_user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info_kel.Designer.vb">
+      <DependentUpon>info_kel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="info_kel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="input_barang.Designer.vb">
+      <DependentUpon>input_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="input_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="input_pemasok.Designer.vb">
+      <DependentUpon>input_pemasok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="input_pemasok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="input_rak.Designer.vb">
+      <DependentUpon>input_rak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="input_rak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koneksi.vb" />
+    <Compile Include="laporan.Designer.vb">
+      <DependentUpon>laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporanperhari.Designer.vb">
+      <DependentUpon>laporanperhari.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporanperhari.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporansemuatransaksi.Designer.vb">
+      <DependentUpon>laporansemuatransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporansemuatransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporanstokbaranghabis.Designer.vb">
+      <DependentUpon>laporanstokbaranghabis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporanstokbaranghabis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lap_barang.Designer.vb">
+      <DependentUpon>lap_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lap_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lap_barangperitem.Designer.vb">
+      <DependentUpon>lap_barangperitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lap_barangperitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lap_barangpertanggal.Designer.vb">
+      <DependentUpon>lap_barangpertanggal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lap_barangpertanggal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lap_barangstokada.Designer.vb">
+      <DependentUpon>lap_barangstokada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lap_barangstokada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log_out.Designer.vb">
+      <DependentUpon>log_out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="log_out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_admin.Designer.vb">
+      <DependentUpon>menu_admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu_admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Struk Penjualan.Designer.vb">
+      <DependentUpon>Struk Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Struk Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="strukdatadata.Designer.vb">
+      <DependentUpon>strukdatadata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="strukdatadata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tentang_app.Designer.vb">
+      <DependentUpon>Tentang_app.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tentang_app.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi.Designer.vb">
+      <DependentUpon>transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="data_pemasok.resx">
+      <DependentUpon>data_pemasok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data_user.resx">
+      <DependentUpon>data_user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info_kel.resx">
+      <DependentUpon>info_kel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="input_barang.resx">
+      <DependentUpon>input_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="input_pemasok.resx">
+      <DependentUpon>input_pemasok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="input_rak.resx">
+      <DependentUpon>input_rak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan.resx">
+      <DependentUpon>laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporanperhari.resx">
+      <DependentUpon>laporanperhari.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporansemuatransaksi.resx">
+      <DependentUpon>laporansemuatransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporanstokbaranghabis.resx">
+      <DependentUpon>laporanstokbaranghabis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lap_barang.resx">
+      <DependentUpon>lap_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lap_barangperitem.resx">
+      <DependentUpon>lap_barangperitem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lap_barangpertanggal.resx">
+      <DependentUpon>lap_barangpertanggal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lap_barangstokada.resx">
+      <DependentUpon>lap_barangstokada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log_out.resx">
+      <DependentUpon>log_out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu_admin.resx">
+      <DependentUpon>menu_admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Struk Penjualan.resx">
+      <DependentUpon>Struk Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="strukdatadata.resx">
+      <DependentUpon>strukdatadata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tentang_app.resx">
+      <DependentUpon>Tentang_app.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi.resx">
+      <DependentUpon>transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSetlapbarang.xsc">
+      <DependentUpon>DataSetlapbarang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetlapbarang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetlapbarang.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSetlapbarang.xss">
+      <DependentUpon>DataSetlapbarang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetstruk.xsc">
+      <DependentUpon>DataSetstruk.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetstruk.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetstruk.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSetstruk.xss">
+      <DependentUpon>DataSetstruk.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
